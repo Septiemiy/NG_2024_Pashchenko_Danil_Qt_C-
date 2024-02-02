@@ -1,0 +1,1 @@
+# NG_2024_Pashchenko_Danil_Qt_C-
