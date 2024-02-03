@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-a5891b0d4124cd6d5ab2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lection_1_Task_3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lection_1_Task_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lection_1_Task_3-RelWithDebInfo-d91761bb7d89fb545456.json",
+					"name" : "Lection_1_Task_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/build-Lection_1_Task_3-Desktop_Qt_6_6_1_MinGW_64_bit-Profile",
+		"source" : "D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/Lection_1_Task_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

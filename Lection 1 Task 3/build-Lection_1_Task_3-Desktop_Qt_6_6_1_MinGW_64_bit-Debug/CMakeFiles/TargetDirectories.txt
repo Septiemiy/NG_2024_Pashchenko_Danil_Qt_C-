@@ -1,0 +1,7 @@
+D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/build-Lection_1_Task_3-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/Lection_1_Task_3.dir
+D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/build-Lection_1_Task_3-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/build-Lection_1_Task_3-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/build-Lection_1_Task_3-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/build-Lection_1_Task_3-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/build-Lection_1_Task_3-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/NG_2024_Pashchenko_Danil_Qt_C-/Lection 1 Task 3/build-Lection_1_Task_3-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
